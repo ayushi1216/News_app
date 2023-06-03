@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+   { 
+     "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Interest rate 'rigging' evidence 'covered up' by banks - BBC",
+    "description": "This evidence was not shown to juries where bankers were jailed for smaller-scale interest rate 'rigging'.",
+    "url": "https://www.bbc.com/news/business-65635243",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCC6/production/_126601746_markets_gettyimages-1216511842.jpg",
+    "publishedAt": "2023-05-22T05:00:14Z",
+    "content": "UK and US regulators were told of a state-led drive to \"rig\" interest rates in the 2008 financial crisis, but covered it up, evidence indicates.\r\nDocuments suggest lenders sharply dropped their inter… [+9782 chars]"
+    },
+   {
+     "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Sean McLain",
+    "title": "Hyundai Accelerates From Budget Brand to Tesla Competitor - WSJ - The Wall Street Journal",
+    "description": "Korean carmaker known for budget brands becomes EV innovator; sets sights on Tesla",
+    "url": "https://www.wsj.com/articles/hyundai-kia-ev-tesla-7936b777",
+    "urlToImage": "https://images.wsj.net/im-784714/social",
+    "publishedAt": "2023-05-22T04:01:00Z",
+    "content": null
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "CoinDesk"
+    },
+    "author": "Sam Reynolds",
+    "title": "Tornado Cash’s TORN Token Up 10% as Attacker Submits Proposal to Undo Attack - CoinDesk",
+    "description": "The proposal would revert Tornado Cash’s governance back to token holders, but not everyone in the community agrees that it's a benevolent plan.",
+    "url": "https://www.coindesk.com/markets/2023/05/22/tornado-cashs-torn-token-up-10-as-attacker-submits-proposal-to-undo-attack/",
+    "urlToImage": "https://www.coindesk.com/resizer/moRyoPc-tzBrFeTpSO-ynaOoDG8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNHIVBTPEZCJ3BQLVYQQKGTYR4.jpg",
+    "publishedAt": "2023-05-22T03:34:00Z",
+    "content": "The Tornado Cash token (TORN) is up 10% after a proposal submitted by a wallet address linked to a recent attack on the decentralized autonomous organizations (DAO) governance state looks to reverse … [+1526 chars]"
+    },
+   {
+     "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rita Liao",
+    "title": "China bans Micron chips in key infrastructure over ‘national security’ risks - TechCrunch",
+    "description": "China has banned some sales of Micron products after launching a probe into the American memory chip giant for cybersecurity risks in early April. The decision is widely seen as part of the tit-for-tac in the ongoing U.S.-China economic competition, which has…",
+    "url": "https://techcrunch.com/2023/05/21/china-bans-micron/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/micron.jpeg?resize=1200,960",
+    "publishedAt": "2023-05-22T03:25:51Z",
+    "content": "China has banned some sales of Micron products after launching a probe into the American memory chip giant for cybersecurity risks in early April.\r\nThe decision is widely seen as part of the tit-for-… [+3008 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Audrey Wan",
+    "title": "Southeast Asia’s worst-performing stock market is UBS’s ‘top pick’ - CNBC",
+    "description": "There's plenty of optimism about Thailand as its tourism potential, but political headwinds could still be a game-changer, says Kelvin Tay from UBS Global Wealth Management.",
+    "url": "https://www.cnbc.com/2023/05/22/southeast-asias-worst-performing-stock-market-is-ubss-top-pick.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244445-1684729642927-gettyimages-1255863484-8CoalitionParties-3JPG.jpeg?v=1684729827&w=1920&h=1080",
+    "publishedAt": "2023-05-22T03:13:00Z",
+    "content": "Pita Limjaroenrat, leader of Move Forward Party, attends a press conference of the Thai pro-democracy parties in Bangkok.\r\nThere's plenty of optimism about Thailand due to its tourism potential, but … [+2883 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "Aaron Chow",
+    "title": "adidas YEEZY BOOST 350 \"Pirate Black\" Receives a Release Date - HYPEBEAST",
+    "description": "Official images reveal a consistent design with the original 2015 version.",
+    "url": "https://hypebeast.com/2023/5/adidas-yeezy-boost-350-pirate-black-receives-a-release-date",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fadidas-yeezy-boost-350-pirate-black-receives-a-release-date-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-22T03:12:57Z",
+    "content": "adidas\r\n is set to release its existing Yeezy product this May, donating a significant amount of the proceeds to “selected organizations working to combat discrimination and hate, including racism an… [+1348 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Ruth Carson and Matthew Burgess",
+    "title": "Traders Brace for Volatility With US Debt Deal Still Elusive - Yahoo Finance",
+    "description": "(Bloomberg) -- Investors are girding for spikes in currency volatility and losses in equities as the US struggles to clinch a debt-limit deal.Most Read from ...",
+    "url": "https://finance.yahoo.com/news/traders-brace-volatility-us-debt-140000887.html",
+    "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/afbf603b14c3a0a91004d42b6537930d",
+    "publishedAt": "2023-05-22T02:55:00Z",
+    "content": "(Bloomberg) -- Investors are girding for spikes in currency volatility and losses in equities as the US struggles to clinch a debt-limit deal.\r\nMost Read from Bloomberg\r\nThe dollar edged lower agains… [+2865 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "AJ McDougall",
+    "title": "Passenger Hits Frontier Flight Attendant With Intercom Phone: Officials - The Daily Beast",
+    "description": "The woman was asked to get off the plane after becoming hostile, though officials did not say what caused the disturbance.",
+    "url": "https://www.thedailybeast.com/passenger-arrested-after-allegedly-hitting-frontier-airlines-flight-attendant-with-intercom-phone",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_16/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1684722115/2008-04-11T000000Z_154029814_GM1E44C05QW01_RTRMADP_3_FRONTIER-BANKRUPTCY_muz7dh",
+    "publishedAt": "2023-05-22T02:41:12Z",
+    "content": "A passenger was arrested after allegedly striking a Frontier Airlines flight attendant with a planes intercom phone early Sunday morning, airline officials said. The woman, who was aboard a Tampa-bou… [+766 chars]"
+    },
+   {
+     "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil slips as U.S. debt caution offset supply concerns - Reuters",
+    "description": "Oil prices slipped on Monday as caution around the U.S. debt ceiling talks and concerns about demand recovery in China offset support from lower supplies from Canada and OPEC+ producers.",
+    "url": "https://www.reuters.com/business/energy/oil-edges-up-supply-worries-g7-pledge-enforce-russian-price-caps-2023-05-22/",
+    "urlToImage": "https://www.reuters.com/resizer/iXCCIXndC8aqdf9SUKGeb8o4xlU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ALPTIEWUENLH7P2VDXQD3YTI2Q.jpg",
+    "publishedAt": "2023-05-22T02:31:00Z",
+    "content": "SINGAPORE, May 22 (Reuters) - Oil prices slipped on Monday as caution around the U.S. debt ceiling talks and concerns about demand recovery in China offset support from lower supplies from Canada and… [+2877 chars]"
+    },
+   {
+     "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "China holds lending rates steady; cautious on weak yuan, capital outflow risk - Reuters",
+    "description": "China kept its benchmark lending rates unchanged for the ninth month in May on Monday, matching market expectations, as a weakening yuan and widening yield differentials with the United States limited the scope for any substantial monetary easing.",
+    "url": "https://www.reuters.com/markets/rates-bonds/china-leaves-lending-benchmarks-unchanged-may-matching-expectations-2023-05-22/",
+    "urlToImage": "https://www.reuters.com/resizer/tHqGFuO2tzuyb1FxhaInVegqcIA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KR7CHXPHHZLWLIWLDTEZ74CJYA.jpg",
+    "publishedAt": "2023-05-22T02:05:00Z",
+    "content": "SHANGHAI/SINGAPORE, May 22 (Reuters) - China kept its benchmark lending rates unchanged for the ninth month in May on Monday, matching market expectations, as a weakening yuan and widening yield diff… [+2987 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jihye Lee, Lim Hui Jie",
+    "title": "Asia markets mixed as China leaves loan rates unchanged; U.S. debt ceiling talks to resume - CNBC",
+    "description": "The People's Bank of China left its 1-year and 5-year loan prime rates unchanged, in line with expectations.",
+    "url": "https://www.cnbc.com/2023/05/22/asia-markets.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107239422-1683764356324-gettyimages-1251968636-CHINA_PBOC.jpeg?v=1684720187&w=1920&h=1080",
+    "publishedAt": "2023-05-22T01:47:00Z",
+    "content": "Federal Reserve Chair Jerome Powell said Friday that interest rates may not have to rise as much as previously thought in part due to stresses seen in the banking sector.\r\n\"The financial stability to… [+437 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Evacuation order cleared at SFO's Terminal 2 after 'suspicious unattended item' was found - KTVU FOX 2 San Francisco",
+    "description": null,
+    "url": "https://www.youtube.com/watch?v=e9KLpePmBdw",
+    "urlToImage": null,
+    "publishedAt": "2023-05-22T01:34:16Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+   {
+     "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Markets on edge as US debt ceiling talks approach crunch time - Reuters",
+    "description": "Asian stocks and Wall Street futures struggled on Monday as U.S. debt ceiling negotiations approached crunch time after stalling last week, while lingering banking fears and fresh geopolitical worries also capped sentiment.",
+    "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-05-22/",
+    "urlToImage": "https://www.reuters.com/resizer/tsBLNxhHax2lB8C1kxnuC3WZ-ek=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RZMV5XSY2BN6BNXMCATQDOJV7Y.jpg",
+    "publishedAt": "2023-05-22T01:06:00Z",
+    "content": "SYDNEY, May 22 (Reuters) - Asian stocks and Wall Street futures struggled on Monday as U.S. debt ceiling negotiations approached crunch time after stalling last week, while lingering banking fears an… [+4315 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "CoinDesk"
+    },
+    "author": "Sam Reynolds",
+    "title": "First Mover Asia: Will Bitcoin Soon Begin a Retest of 30K? - CoinDesk",
+    "description": "ALSO: Crypto companies and trade organization are spending a fraction of the amount that other industries are allocating for lobbying. That may change.",
+    "url": "https://www.coindesk.com/markets/2023/05/22/first-mover-asia-coming-soon-a-retest-of-bitcoin-at-30k/",
+    "urlToImage": "https://www.coindesk.com/resizer/zN8oLAMG9_mlCUg-9AaEFzpaLno=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ASHSLW3NW5EBFLSF4J2OI566M4.jpg",
+    "publishedAt": "2023-05-22T00:53:00Z",
+    "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin is in consolidation mode before an eventual retest of $30,000, says BitBull Capital.\r\nInsights: The crypto industry is spending less than other i… [+5606 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Eric Revell",
+    "title": "Treasury to run low on cash by June 8 or 9 unless debt limit raised: Goldman Sachs - Fox Business",
+    "description": "A pair of Goldman Sachs economists wrote that the Treasury is likely to run out of the funding needed to pay federal bills by June 8 or 9, although cash could run low sooner.",
+    "url": "https://www.foxbusiness.com/economy/treasury-run-low-cash-june-8-9-unless-debt-limit-raised-goldman-sachs",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/BUSINESS-US-debt-ceiling.jpg?ve=1&tl=1",
+    "publishedAt": "2023-05-22T00:47:01Z",
+    "content": "The Treasury Deptartment is expected to run out of the cash necessary to fund the federal government’s obligations\r\n by June 8 or 9 unless the debt ceiling is lifted, according to a report by Goldman… [+4288 chars]"
+    },
+   {
+     "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Aaron McDade",
+    "title": "Nearly 75% of home purchases in a Bay Area city were made by LLCs or trusts. It's a trend among the wealthy. - Yahoo Finance",
+    "description": "Atherton, a city near San Francisco that's one of the wealthiest in the US, is part of a growing trend: people using trusts and LLCs to buy homes.",
+    "url": "https://www.businessinsider.com/why-few-homes-in-bay-area-owned-individuals-llc-trust-2023-5",
+    "urlToImage": "https://media.zenfs.com/en/business_insider_articles_888/c2bf7c428eb8ab118c72a89b9237c7b3",
+    "publishedAt": "2023-05-21T23:56:03Z",
+    "content": "Atherton, California is one of the wealthiest areas in the US. A large portion of homes purchased in the area were completed through trusts or LLCs, the San Francisco Chronicle reported.Google Maps\r\n… [+2611 chars]"
+    },
+   {
+     "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Richard Lawler",
+    "title": "Instagram was down, but now it's working again - The Verge",
+    "description": "A significant Instagram outage shut down access to the app for users on iOS, Android, and the web Sunday night, until it was fixed after 7PM ET. Feeds wouldn’t load, and the website was displaying a blank page.",
+    "url": "https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/x5_-B4s2lLwesBevof0v1ykvSI0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg",
+    "publishedAt": "2023-05-21T23:42:34Z",
+    "content": "Instagram was down, but now its working again\r\nInstagram was down, but now its working again\r\n / The Instagram app took a break for over an hour on Sunday evening, but now its back online.\r\nByRichard… [+1782 chars]"
+    },
+   {
+     "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil supply won't be affected by stricter price cap enforcement, IEA says - Reuters",
+    "description": "The International Energy Agency (IEA) does not expect moves by the Group of Seven nations to counter the evasion of price caps on Russian energy will change the supply situation for crude oil and oil products, the IEA's Executive Director Fatih Birol said.",
+    "url": "https://www.reuters.com/business/energy/oil-supply-wont-be-affected-by-stricter-price-cap-enforcement-iea-2023-05-21/",
+    "urlToImage": "https://www.reuters.com/resizer/jRPfruHHMUPXo3ufsD2Y3masYFE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5PD5KE7ZKRPRDEID2P4JLKC6TI.jpg",
+    "publishedAt": "2023-05-21T23:35:00Z",
+    "content": "HIROSHIMA, Japan, May 21 (Reuters) - The International Energy Agency (IEA) does not expect moves by the Group of Seven nations to counter the evasion of price caps on Russian energy will change the s… [+2830 chars]"
+    },
+   {
+     "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Monica Pitrelli",
+    "title": "Should you check emails on vacation or face a ‘tidal wave’ of messages later? These CEOs have some ideas - CNBC",
+    "description": "Vacations are a break from the office, but emails follow us everywhere — if we let them. CEOs share strategies to tame emails and protect your vacation.",
+    "url": "https://www.cnbc.com/2023/05/22/how-to-handle-email-on-vacation-see-what-these-ceos-do.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107243808-1684478918533-gettyimages-493744124-000077067401_Illustrationeps.jpeg?v=1684709304&w=1920&h=1080",
+    "publishedAt": "2023-05-21T22:48:24Z",
+    "content": "Should you check email on vacation or face a tsunami of messages once you're back at the office?\r\nFor workers at war with their inboxes, neither is a great option.  \r\nThat's why many people choose so… [+6776 chars]"
+    },
+   {
+     "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": null,
+    "title": "Meta reportedly wants to license Magic Leap's AR technology | Engadget - Engadget",
+    "description": "Meta could turn to Magic Leap for help to stay ahead of Apple and other new entrants in the soon-to-be crowded AR space..",
+    "url": "https://www.engadget.com/meta-reportedly-wants-to-license-magic-leaps-ar-technology-213923148.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/KOq_Qj2I5mBCFWQFpVzH1A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/1ef2f6f0-612f-11ed-9fff-7ad02858068a.cf.jpg",
+    "publishedAt": "2023-05-21T21:41:31Z",
+    "content": "Meta could turn to Magic Leap for help to stay ahead of Apple and other new entrants in the soon-to-be crowded AR space. According to the Financial Times\r\n, the two companies are in talks to sign a m… [+1618 chars]"
+    }
+    ]
+    }
